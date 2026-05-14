@@ -70,4 +70,4 @@ By using EchoFlux, you agree to our policies.
 * Read our [Terms of Service](./TERMS.md)
 
 ---
-*Handcrafted by Matrix Development*
+*Made with ❤️ by Matrix Development*
